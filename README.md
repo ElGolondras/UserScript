@@ -73,7 +73,7 @@ Debería verse así en la cabecera del script:
 
 Para que el avatar animado funcione, sube tu GIF al repo de perfil:
 
-1. Ve a `github.com/UserName/Username` (En caso de no tener este repositorio crearlo)
+1. Ve a `github.com/UserName/Username` (En caso de no tener este repositorio, crearlo)
 2. Haz clic en **Add file** → **Upload files**
 3. Sube tu GIF con el nombre exacto: **`avatar.gif`**
 4. Haz clic en **Commit changes**
@@ -89,7 +89,8 @@ https://raw.githubusercontent.com/UserName/UserName/main/avatar.gif
 
 ### Paso 5 — Verificar que está activo
 
-1. Ve a [github.com/UserName](https://github.com/%UserName%)
+1. Ve a tu perfil de GitHub — la URL es `https://github.com/TU_USUARIO`
+   (reemplaza `TU_USUARIO` por tu nombre de usuario real)
 2. Recarga la página con **F5**
 3. Deberías ver los efectos inmediatamente
 
