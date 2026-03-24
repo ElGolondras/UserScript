@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/UserName/UserName/main/avatar.gif
 ### Paso 5 — Verificar que está activo
 
 1. Ve a tu perfil de GitHub — la URL es `https://github.com/TU_USUARIO`
-   (reemplaza `TU_USUARIO` por tu nombre de usuario real)
+   (reemplaza `TU_USUARIO` por tu nombre de usuario de GitHub)
 2. Recarga la página con **F5**
 3. Deberías ver los efectos inmediatamente
 
