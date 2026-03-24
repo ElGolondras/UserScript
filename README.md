@@ -62,7 +62,7 @@ Debería verse así en la cabecera del script:
 ```javascript
 // ==UserScript==
 // @name         ElGolondras GitHub FX
-// @match        https://github.com/ElGolondras
+// @match        https://github.com/UserName
 // ...
 // ==/UserScript==
 ```
@@ -73,7 +73,7 @@ Debería verse así en la cabecera del script:
 
 Para que el avatar animado funcione, sube tu GIF al repo de perfil:
 
-1. Ve a `github.com/ElGolondras/ElGolondras`
+1. Ve a `github.com/UserName/Username` (En caso de no tener este repositorio crearlo)
 2. Haz clic en **Add file** → **Upload files**
 3. Sube tu GIF con el nombre exacto: **`avatar.gif`**
 4. Haz clic en **Commit changes**
@@ -82,14 +82,14 @@ Para que el avatar animado funcione, sube tu GIF al repo de perfil:
 
 La URL del GIF quedará así:
 ```
-https://raw.githubusercontent.com/ElGolondras/ElGolondras/main/avatar.gif
+https://raw.githubusercontent.com/UserName/UserName/main/avatar.gif
 ```
 
 ---
 
 ### Paso 5 — Verificar que está activo
 
-1. Ve a [github.com/ElGolondras](https://github.com/ElGolondras)
+1. Ve a [github.com/UserName](https://github.com/%UserName%)
 2. Recarga la página con **F5**
 3. Deberías ver los efectos inmediatamente
 
@@ -138,7 +138,7 @@ Usa **Ctrl + H** en el editor para reemplazar todos los valores a la vez.
 Busca esta línea en el script:
 
 ```javascript
-const GIF_URL = 'https://raw.githubusercontent.com/ElGolondras/ElGolondras/main/avatar.gif';
+const GIF_URL = 'https://raw.githubusercontent.com/UserName/UserName/main/avatar.gif';
 ```
 
 Reemplaza la URL por la de tu nuevo GIF.
@@ -160,7 +160,7 @@ Para volver a activarlo repite el proceso.
 ## ❓ Problemas frecuentes
 
 **Los efectos no aparecen**
-- Asegúrate de estar en `https://github.com/ElGolondras` exactamente
+- Asegúrate de estar en `https://github.com/UserName` exactamente
 - Comprueba que el script está activado en Tampermonkey
 - Recarga la página con **Ctrl + Shift + R** (recarga forzada)
 
