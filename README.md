@@ -177,6 +177,8 @@ Para volver a activarlo repite el proceso.
 - Reduce el número de partículas buscando `PARTICLE_COUNT = 90` y bajándolo a `50`
 - Reduce la velocidad del Matrix cambiando `setInterval(drawMatrix, 45)` a `setInterval(drawMatrix, 80)`
 
+---
+
 <div align="center">
 
 Hecho por **ElGolondras** · Solo se ejecuta en tu navegador · Solo es visible para ti
