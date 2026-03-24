@@ -177,20 +177,8 @@ Para volver a activarlo repite el proceso.
 - Reduce el número de partículas buscando `PARTICLE_COUNT = 90` y bajándolo a `50`
 - Reduce la velocidad del Matrix cambiando `setInterval(drawMatrix, 45)` a `setInterval(drawMatrix, 80)`
 
----
-
-## 📁 Archivos
-
-```
-ElGolondras_GitHub_FX.user.js   ← Script principal para Tampermonkey
-README.md                        ← Esta guía
-avatar.gif                       ← Tu GIF animado (súbelo al repo de perfil)
-```
-
----
-
 <div align="center">
 
-Hecho por **ElGolondras** · Solo se ejecuta en tu navegador · Tus datos no salen a ningún lado
+Hecho por **ElGolondras** · Solo se ejecuta en tu navegador · Solo es visible para ti
 
 </div>
